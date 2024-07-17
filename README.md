@@ -68,7 +68,7 @@ To run this project locally:
 ### Registration:
    - Fill out the registration form with your details.
    - Select your desired course and upload your resume.
-    -Submit the form to enroll in a course.
+   - Submit the form to enroll in a course.
 
 ## Contributing
 We welcome contributions to improve Keyon Academy! To contribute:
