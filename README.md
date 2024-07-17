@@ -50,3 +50,16 @@ To run this project locally:
    ```sh
    git clone https://github.com/your-username/keyon-academy.git
 
+
+2. Navigate to the project directory:
+   ```sh
+   cd keyon-academy
+
+3. Open the index.html file in your web browser to view the homepage.
+
+4. Open the register.html file in your web browser to view the registration page.
+   
+
+   
+
+
